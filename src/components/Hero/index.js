@@ -1,9 +1,12 @@
 import React , {useState }from "react"
+import lion from '../../images/lion.png'
+
+
 function Hero () {
 return (
     <>
   <div className="logo">
-  <img src="../../Hero.png"></img> 
+  <img src></img> 
 </div>
 {/* <!-- Intro--> */}
 <section className="intro" id="home">
@@ -11,7 +14,7 @@ return (
       Matthew A John<strong>Portfolio</strong>
   </h1>
   <p className="section__subtitle section__subtitle--intro ">Full-Stack Developer</p>
-  <img src="./images/lion.png" alt="Matthew Photo Military" className="intro__img"></img>
+  <img src={lion} alt="Matthew Photo Military" className="intro__img"></img>
 </section>
 </>
 

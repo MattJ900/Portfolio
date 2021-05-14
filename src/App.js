@@ -15,7 +15,6 @@ function App() {
       <Switch>
         <Route path='/' component={Main} />
       </Switch>
-      <Footer/>
     </Router>
     </>
   );
