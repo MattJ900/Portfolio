@@ -5,7 +5,7 @@ import Autobiography from "../Autobiography";
 import Footer from "../Footer";
 import Contact from "../Contact";
 import Projects from "../Projects";
-import Projects from "../Feature";
+import Feature from "../Feature";
 function Main () {
     return (
         <>

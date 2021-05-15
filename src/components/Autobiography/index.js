@@ -17,10 +17,10 @@ return (
 
             <div className="service">
                 <h3>UCLA Extension</h3>
-                <h4>Student @
-                    Full-Stack Developer Course
+                <h4>Grad 
+                    Full-Stack Web Developer Course
                 </h4>
-                <p>Currently enrolled at UCLA Extension Full Stack Flex Web Coding Bootcamp to further my knowledge and achieve capabilities with Javascript, HTML, CSS jQuery Bootstrap, Node.js MySQL MongoDB Express.js React.js.</p>
+                <p>Completed Full Stack Flex Web Coding Bootcamp to further my knowledge and achieve capabilities with Javascript, HTML, CSS jQuery Bootstrap, Node.js MySQL MongoDB Express.js React.js.</p>
             </div>
         </div>
 

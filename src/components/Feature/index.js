@@ -1,13 +1,5 @@
 import React , {useState }from "react"
-import USMC from '../../images/USMC.png'
-import VT from '../../images/vt.png'
-import Github2 from '../../images/Github2.png'
-import Weather from '../../images/Weather.png'
-import CodeQ from '../../images/CodeQ.png'
-import CodeR from '../../images/CodeR.png'
-import Note from '../../images/Note.png'
-import Project1 from '../../images/Project-1.png'
-import Fitness from '../../images/Fitness.png'
+import Yewnity from '../../images/Yewnity.png'
 
 
 
@@ -25,10 +17,10 @@ function Feature () {
             
         <div className="portfolio__item">    
             <div className="">
-            <a href="https://warm-shore-45541.herokuapp.com/">Virtual Theme Park</a><br></br> 
-            <a href="https://github.com/MattJ900/virtual-theme-park/">Github Repo</a>
+            <a href="https://warm-shore-45541.herokuapp.com/">Yewnity</a><br></br> 
+            <a href="https://github.com/Sharon1106/Yewnity">Github Repo</a>
             </div>
-                <img src={VT} alt="List of Repo Photos" className="portfolio__img"></img>
+                <img src={Yewnity} alt="List of Repo Photos" className="portfolio__img"></img>
             </div>
             {/* <!-- Portfolio Image 1 --> */}
     
