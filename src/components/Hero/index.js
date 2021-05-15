@@ -1,4 +1,5 @@
 import React , {useState }from "react"
+import hero from '../../images/Hero.png'
 import lion from '../../images/lion.png'
 
 
@@ -6,7 +7,7 @@ function Hero () {
 return (
     <>
   <div className="logo">
-  <img src></img> 
+  <img src={hero}></img> 
 </div>
 {/* <!-- Intro--> */}
 <section className="intro" id="home">
