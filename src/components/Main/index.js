@@ -5,6 +5,7 @@ import Autobiography from "../Autobiography";
 import Footer from "../Footer";
 import Contact from "../Contact";
 import Projects from "../Projects";
+import Projects from "../Feature";
 function Main () {
     return (
         <>
@@ -17,6 +18,7 @@ function Main () {
         
     <Contact></Contact>
 
+    <Feature></Feature>
     
     <Projects></Projects>
 
