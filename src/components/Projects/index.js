@@ -17,8 +17,8 @@ function Projects () {
 
 
     <section className="my-work" id="work">
-        <h2 className="section__title section__title--work">Current Projects</h2>
-        <p className="section__subtitle section__subtitle--work">Github Repos & Projects</p>
+        <h2 className="section__title section__title--work">Show ase Projects</h2>
+        <p className="section__subtitle section__subtitle--work">Github Repos & Completed Projects</p>
     
         <div className="portfolio">
             {/* <!-- Portfolio Image 0 --> */}
