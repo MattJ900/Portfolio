@@ -15,7 +15,7 @@ function Feature () {
         <div className="portfolio">
             {/* <!-- Portfolio Image 0 --> */}
             
-        <div className="portfolio__item">    
+        <div className="portfolio__item2">    
             <div className="">
             <a href="https://warm-shore-45541.herokuapp.com/">Yewnity</a><br></br> 
             <a href="https://github.com/Sharon1106/Yewnity">Github Repo</a>

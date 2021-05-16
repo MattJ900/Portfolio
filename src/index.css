@@ -468,6 +468,16 @@ header {
 
 }
 
+
+.portfolio__item2 {
+    justify-content: center;
+    display: inline-grid;
+    /* margin-bottom: 20px; */
+    padding-bottom: 10px;
+}
+
+
+
 .portfolio__img {
     transition: 
     transform 750ms cubic-bezier(.5, 0, .5, 1),
